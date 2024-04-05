@@ -1,4 +1,4 @@
-SkinSage
+```SkinSage
 
 SkinSage is a deep learning project aimed at predicting skin diseases from images. This repository contains code for training and deploying a model that can classify skin diseases based on input images.
 
@@ -45,4 +45,4 @@ This project was made possible by the contributions of many individuals. We woul
 
 License
 
-This project is licensed under the MIT License - see the LICENSE file for details.
+This project is licensed under the MIT License - see the LICENSE file for details.```
